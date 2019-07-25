@@ -1,0 +1,11 @@
+[default]
+name=Default
+runtime=host
+toolchain=default
+config-opts=-disable-introspection
+run-opts=
+prefix=/home/ab/.var/app/org.gnome.Builder/cache/gnome-builder/install/term_emu/host
+app-id=
+postbuild=
+prebuild=
+default=true
